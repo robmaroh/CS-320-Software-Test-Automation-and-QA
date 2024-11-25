@@ -1,5 +1,4 @@
-# CS-320
-CS 320 Software Test Automation and Quality Assurance
+# Software Test Automation and Quality Assurance
 
 How can I ensure that my code, program, or software is functional and secure?
 
